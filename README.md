@@ -77,7 +77,7 @@ var users = map[int32]pb.UserResponse{
 
 client 请求 ID 为 2 的用户数据，server 返回 ID 为 2 的用户数据：
 
-![simple](http://p7f8yck57.bkt.clouddn.com/2018-05-09-134349.gif)
+![simple](https://images.yinzige.com/2018-05-09-134349.gif)
 
 
 
@@ -87,7 +87,7 @@ client 请求 ID 为 2 的用户数据，server 返回 ID 为 2 的用户数据�
 
 client 请求 1 的用户数据，server 返回 1、2、3 的用户数据流：
 
-![server-side-streaming](http://p7f8yck57.bkt.clouddn.com/2018-05-09-134746.gif)
+![server-side-streaming](https://images.yinzige.com/2018-05-09-134746.gif)
 
 
 
@@ -99,7 +99,7 @@ client 请求 1 的用户数据，server 返回 1、2、3 的用户数据流：
 
 client 请求 1、2、3 的用户数据流，server 返回 3 的用户数据：
 
-![client-side-streaming](http://p7f8yck57.bkt.clouddn.com/2018-05-09-135043.gif)
+![client-side-streaming](https://images.yinzige.com/2018-05-09-135043.gif)
 
 
 
@@ -109,7 +109,7 @@ client 请求 1、2、3 的用户数据流，server 返回 3 的用户数据：
 
 client 依次请求 1、2、3 的用户数据流，服务端依次返回 1、2、3 的用户数据流：
 
-![bidirectional-streaming](http://p7f8yck57.bkt.clouddn.com/2018-05-09-135326.gif)
+![bidirectional-streaming](https://images.yinzige.com/2018-05-09-135326.gif)
 
 
 
